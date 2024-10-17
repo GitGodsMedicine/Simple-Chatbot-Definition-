@@ -1,5 +1,5 @@
 import { readFileSync } from 'fs';
-import { memory } from './rnn.asm.js';
+import { memory } from './rnn.asm.js'; // this import was directly taken, to use asm in this mjs, you need to use libraries, this example takes the direct import from the rnn.asm
 
 const KNOWLEDGE_PATH = './knowledge.txt';
 const RNN_PATH = './rnn.asm.js';
