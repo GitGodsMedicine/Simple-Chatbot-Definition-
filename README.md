@@ -1,8 +1,8 @@
 # The code consists of three parts:
 
-- 1. The neural network implementation in assembly `rnn.asm`
-- 2. The knowledge file `knowledge.txt`
-- 3. The chatbot implementation in JavaScript `chatbot.mjs`
+- The neural network implementation in assembly `rnn.asm`
+- The knowledge file `knowledge.txt`
+- The chatbot implementation in JavaScript `chatbot.mjs`
 
 ## Neural Network Implementation
 
